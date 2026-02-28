@@ -36,6 +36,8 @@ Key Highlights:
 <br>•Analytical Thinking
 
 <h2>🌐 Connect With Me</h2>
-<p> <a href="https://linkedin.com/in/https:/shivainkoul"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shivainkoul27@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/shivainnnn__"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
+<p> <a href="https://linkedin.com/in/shivainkoul"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="mailto:shivainkoul27@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> <a href="https://instagram.com/shivainnnn__"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></p>
 
 <h2>⭐ "Learning today. Improving every day. Delivering tomorrow."</h2>
